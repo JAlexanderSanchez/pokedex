@@ -4,7 +4,7 @@
 
 // ⚠️ IMPORTANTE: Reemplazar esta URL con la URL de tu backend desplegado en Render
 // Ejemplo: 'https://poke-explorer-backend.onrender.com'
-const API_URL = 'http://localhost:5000'; // Cambiar en producción
+const API_URL = 'https://pokedex-2-1asb.onrender.com'; // Cambiar en producción
 
 // ========================================
 // ESTADO DE LA APLICACIÓN
